@@ -18,12 +18,12 @@ You can use the [editor on GitHub](https://github.com/memphis-iis/datawhys-cours
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Schedule (Phase 1)
+### Schedule
 
 Your schedule for the first five weeks will be very similar every day.
 The only major differences are Tuesdays, when you will have lunch with a faculty member (online) and Thursdays, when we will have a presentation.
 
-<object data="https://calendar.google.com/calendar/embed?src=oimpmtmg6rv0f42trosp9fmi04%40group.calendar.google.com&ctz=America%2FChicago"></object>
+<object data="https://calendar.google.com/calendar/embed?src=oimpmtmg6rv0f42trosp9fmi04%40group.calendar.google.com&ctz=America%2FChicago" width="640" height="480"></object>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
