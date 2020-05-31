@@ -1,10 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome!
+
+The internship will have two phases, lasting 5 weeks and 3 weeks, respectively.
+In the first phase, you will work through a loosely structured course to learn data science.
+In the second phase, you will work in teams on a real data science project.
+
+Because the internship is online, it is very important for you to become familiar with the technologies we will be using to stay connected:
+
+| What           | Where                                                                                           | Why                                                                   |
+|----------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Your UoM Email | https://ummail.memphis.edu/                                                                     | This is your official employment email address                        |
+| Slack          | [here](https://join.slack.com/t/datawhys2020s-68d8682/shared_invite/zt-ekt0szat-_Dz1JrWouemzoO3y4UVFhg) | This is instant-message software you can use to ask questions or chat |
+| JupyterHub     | [here](#schedule)                                                                               | This is where you will work on data science problems                  |
+| OKpy           | http://okpy.org/                                                                                | This is where you will submit work for feedback                       |
+| Zoom           | http://memphis.zoom.us/                                                                         | This is your **video chat** software for group meetings                   |
 
 You can use the [editor on GitHub](https://github.com/memphis-iis/datawhys-course-organizer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Schedule (Phase 1)
+
+Your schedule for the first five weeks will be very similar every day.
+The only major differences are Tuesdays, when you will have lunch with a faculty member (online) and Thursdays, when we will have a presentation.
+
+<object data="https://calendar.google.com/calendar/embed?src=oimpmtmg6rv0f42trosp9fmi04%40group.calendar.google.com&ctz=America%2FChicago"></object>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
