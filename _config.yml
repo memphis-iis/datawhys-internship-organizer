@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
-lang: "en-US"
-author: "Andrew M. Olney"
-title: "Organizer -- DataWhys 2020 Summer Internship"
-description: "Everything you need to know to make the most out of your internship"
-keywords: "DataWhys, internship, data science, NSF"
+site.lang: "en-US"
+site.author: "Andrew M. Olney"
+site.title: "Organizer -- DataWhys 2020 Summer Internship"
+site.description: "Everything you need to know to make the most out of your internship"
+site.keywords: "DataWhys, internship, data science, NSF"
