@@ -8,11 +8,11 @@ Because the internship is online, it is very important for you to become familia
 
 | What           | Where                                                                                           | Why                                                                   |
 |----------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| UoM Email | https://ummail.memphis.edu/                                                                     | This is your official employment email address                        |
-| Slack          | [here](https://join.slack.com/t/datawhys2020s-68d8682/shared_invite/zt-ekt0szat-_Dz1JrWouemzoO3y4UVFhg) | This is instant-message software you can use to ask questions or chat |
+| UoM Email | <https://ummail.memphis.edu/>                                                                     | This is your official employment email address                        |
+| Slack          | [go here](https://join.slack.com/t/datawhys2020s-68d8682/shared_invite/zt-ekt0szat-_Dz1JrWouemzoO3y4UVFhg) | This is instant-message software you can use to ask questions or chat |
 | JupyterHub     | [see schedule](#schedule)                                                                               | This is where you will work on data science problems                  |
-| OKpy           | http://okpy.org/                                                                                | This is where you will submit work for feedback                       |
-| Zoom           | http://memphis.zoom.us/                                                                         | This is your **video chat** software for group meetings                   |
+| OKpy           | <http://okpy.org/>                                                                                | This is where you will submit work for feedback                       |
+| Zoom           | <http://memphis.zoom.us/>                                                                         | This is your **video chat** software for group meetings                   |
 
 ### Schedule
 
