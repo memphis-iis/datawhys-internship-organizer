@@ -23,7 +23,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Your schedule for the first five weeks will be very similar every day.
 The only major differences are Tuesdays, when you will have lunch with a faculty member (online) and Thursdays, when we will have a presentation.
 
-<object data="https://calendar.google.com/calendar/embed?src=oimpmtmg6rv0f42trosp9fmi04%40group.calendar.google.com&ctz=America%2FChicago;mode=AGENDA" width="576" height="432"></object>
+<object data="https://calendar.google.com/calendar/embed?src=oimpmtmg6rv0f42trosp9fmi04%40group.calendar.google.com&ctz=America%2FChicago&amp;mode=AGENDA" width="576" height="432"></object>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
