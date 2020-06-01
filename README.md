@@ -4,6 +4,8 @@ The internship will have two phases, lasting 5 weeks and 3 weeks, respectively.
 In the first phase, you will work through a loosely structured course to learn data science.
 In the second phase, you will work in teams on a real data science project.
 
+### Links
+
 Because the internship is online, it is very important for you to become familiar with the technologies we will be using to stay connected:
 
 | What           | Where                                                                                           | Why                                                                   |
