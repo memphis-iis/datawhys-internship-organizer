@@ -11,7 +11,7 @@ Because the internship is online, it is very important for you to become familia
 | What           | Where                                                                                           | Why                                                                   |
 |----------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | UoM Email | <https://ummail.memphis.edu/>                                                                     | This is your official employment email address                        |
-| Slack          | [go here](https://join.slack.com/t/datawhys2020s-68d8682/signup?x=x-p1129025812039-1137035335334-1161785047828) | This is instant-message software you can use to ask questions or chat |
+| Slack          | ~~go here~~ (join link disabled 7/24/20) | This is instant-message software you can use to ask questions or chat |
 | JupyterHub     | [see schedule](#schedule) and [cheat sheet](https://drive.google.com/file/d/192QnMGhmxsWW0O-l1RR9lN691g5IuHZp/view?usp=sharing)                                                                              | This is where you will work on data science problems                  |
 | OKpy           | <http://okpy.org/>                                                                                | This is where you will submit work for feedback                       |
 | Zoom           | <http://memphis.zoom.us/>                                                                         | This is your **video chat** software for group meetings                   |
