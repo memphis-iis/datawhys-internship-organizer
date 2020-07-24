@@ -24,6 +24,6 @@ The only major differences are Tuesdays, when you will have lunch with a faculty
 Click on an activity below to reveal the link to that activity.
 Remember you can always ask questions in Slack if you're not sure what to do or if something isn't working. 
 
-<object data="https://calendar.google.com/calendar/embed?src=l7g1s2murncqqmis1fqe1cf0ns%40group.calendar.google.com&ctz=America%2FChicago&amp;mode=AGENDA" width="576" height="432"></object>
+<object data="https://calendar.google.com/calendar/embed?src=l7g1s2murncqqmis1fqe1cf0ns%40group.calendar.google.com&ctz=America%2FChicago&amp;mode=AGENDA&dates=20200602%2F20200723" width="576" height="432"></object>
 
 In the second phase, you will be working with your project team and faculty mentor, who will set your team's schedule.
