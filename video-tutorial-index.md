@@ -1,68 +1,134 @@
 The links below will take you to specific sections of the video tutorial:
 
 <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=0s" dir="auto">00:00</a><span dir="auto" class="style-scope yt-formatted-string"> How to start Jupyter on the desktop
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=60s" dir="auto">01:00</a><span dir="auto" class="style-scope yt-formatted-string"> How to start Jupyter on a JupyterHub
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=85s" dir="auto">01:25</a><span dir="auto" class="style-scope yt-formatted-string"> Creating a new notebook
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=138s" dir="auto">02:18</a><span dir="auto" class="style-scope yt-formatted-string"> Jupyter cells and how to run them
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=178s" dir="auto">02:58</a><span dir="auto" class="style-scope yt-formatted-string"> Code cells
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=263s" dir="auto">04:23</a><span dir="auto" class="style-scope yt-formatted-string"> Outputs
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=370s" dir="auto">06:10</a><span dir="auto" class="style-scope yt-formatted-string"> Run orders
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=404s" dir="auto">06:44</a><span dir="auto" class="style-scope yt-formatted-string"> Markdown cells
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=489s" dir="auto">08:09</a><span dir="auto" class="style-scope yt-formatted-string"> Formatting markdown cells
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=528s" dir="auto">08:48</a><span dir="auto" class="style-scope yt-formatted-string"> Formatting tricks
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=617s" dir="auto">10:17</a><span dir="auto" class="style-scope yt-formatted-string"> Markdown cheat sheets
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=664s" dir="auto">11:04</a><span dir="auto" class="style-scope yt-formatted-string"> How to start Blockly
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=713s" dir="auto">11:53</a><span dir="auto" class="style-scope yt-formatted-string"> How Jupyter and Blockly work together
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=744s" dir="auto">12:24</a><span dir="auto" class="style-scope yt-formatted-string"> Create variable in Blockly
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=766s" dir="auto">12:46</a><span dir="auto" class="style-scope yt-formatted-string"> Blockly palette
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=789s" dir="auto">13:09</a><span dir="auto" class="style-scope yt-formatted-string"> Connecting blocks
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=843s" dir="auto">14:03</a><span dir="auto" class="style-scope yt-formatted-string"> Right-click block options
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=873s" dir="auto">14:33</a><span dir="auto" class="style-scope yt-formatted-string"> Deleting blocks
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=894s" dir="auto">14:54</a><span dir="auto" class="style-scope yt-formatted-string"> Blocks to code
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=970s" dir="auto">16:10</a><span dir="auto" class="style-scope yt-formatted-string"> Making blocks reappear
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1035s" dir="auto">17:15</a><span dir="auto" class="style-scope yt-formatted-string"> Loops
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1086s" dir="auto">18:06</a><span dir="auto" class="style-scope yt-formatted-string"> Notebook sync
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1125s" dir="auto">18:45</a><span dir="auto" class="style-scope yt-formatted-string"> Code to Blocks
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1183s" dir="auto">19:43</a><span dir="auto" class="style-scope yt-formatted-string"> Report Bug
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1209s" dir="auto">20:09</a><span dir="auto" class="style-scope yt-formatted-string"> Copy/Paste
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1242s" dir="auto">20:42</a><span dir="auto" class="style-scope yt-formatted-string"> Saving Block
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1255s" dir="auto">20:55</a><span dir="auto" class="style-scope yt-formatted-string"> Copy/Paste continued
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1329s" dir="auto">22:09</a><span dir="auto" class="style-scope yt-formatted-string"> Keyboard Shortcuts
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1447s" dir="auto">24:07</a><span dir="auto" class="style-scope yt-formatted-string"> Dragging cells in jupyter
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1496s" dir="auto">24:56</a><span dir="auto" class="style-scope yt-formatted-string"> Menu (File) options
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1510s" dir="auto">25:10</a><span dir="auto" class="style-scope yt-formatted-string"> Edit Menu
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1512s" dir="auto">25:12</a><span dir="auto" class="style-scope yt-formatted-string"> Run menu
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1535s" dir="auto">25:35</a><span dir="auto" class="style-scope yt-formatted-string"> How the kernel works
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1648s" dir="auto">27:28</a><span dir="auto" class="style-scope yt-formatted-string"> Kernel dies
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1669s" dir="auto">27:49</a><span dir="auto" class="style-scope yt-formatted-string"> Clearing notebook
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1690s" dir="auto">28:10</a><span dir="auto" class="style-scope yt-formatted-string"> Importing Libraries
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1794s" dir="auto">29:54</a><span dir="auto" class="style-scope yt-formatted-string"> Purple blocks/Intelli-Blocks
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1805s" dir="auto">30:05</a><span dir="auto" class="style-scope yt-formatted-string"> Intelli-sense
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1872s" dir="auto">31:12</a><span dir="auto" class="style-scope yt-formatted-string"> Read CSV
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=1908s" dir="auto">31:48</a><span dir="auto" class="style-scope yt-formatted-string"> How to locate file names
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2055s" dir="auto">34:15</a><span dir="auto" class="style-scope yt-formatted-string"> Create dataframe variable
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2074s" dir="auto">34:34</a><span dir="auto" class="style-scope yt-formatted-string"> Block Glitches
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2098s" dir="auto">34:58</a><span dir="auto" class="style-scope yt-formatted-string"> Block Glitch workarounds
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2140s" dir="auto">35:40</a><span dir="auto" class="style-scope yt-formatted-string"> Getting block output with dataframes
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2184s" dir="auto">36:24</a><span dir="auto" class="style-scope yt-formatted-string"> Dataframe describe
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2265s" dir="auto">37:45</a><span dir="auto" class="style-scope yt-formatted-string"> Import plotly
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2316s" dir="auto">38:36</a><span dir="auto" class="style-scope yt-formatted-string"> How to do plots
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2371s" dir="auto">39:31</a><span dir="auto" class="style-scope yt-formatted-string"> Using lists
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2452s" dir="auto">40:52</a><span dir="auto" class="style-scope yt-formatted-string"> Freestyle blocks
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2485s" dir="auto">41:25</a><span dir="auto" class="style-scope yt-formatted-string"> “None” empty block in list problem
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2529s" dir="auto">42:09</a><span dir="auto" class="style-scope yt-formatted-string"> What errors look like
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2564s" dir="auto">42:44</a><span dir="auto" class="style-scope yt-formatted-string"> Fixing “none” error
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2697s" dir="auto">44:57</a><span dir="auto" class="style-scope yt-formatted-string"> Histogram example
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2765s" dir="auto">46:05</a><span dir="auto" class="style-scope yt-formatted-string"> Save histogram in variable
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2788s" dir="auto">46:28</a><span dir="auto" class="style-scope yt-formatted-string"> Blockly off screen issues
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2861s" dir="auto">47:41</a><span dir="auto" class="style-scope yt-formatted-string"> Blocks hidden/off screen
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2889s" dir="auto">48:09</a><span dir="auto" class="style-scope yt-formatted-string"> Off screen fix with zoom resolution
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2926s" dir="auto">48:46</a><span dir="auto" class="style-scope yt-formatted-string"> Save notebook short cut
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=2988s" dir="auto">49:48</a><span dir="auto" class="style-scope yt-formatted-string"> Opening another notebook
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=3184s" dir="auto">53:04</a><span dir="auto" class="style-scope yt-formatted-string"> Variable name conflict solution
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=3238s" dir="auto">53:58</a><span dir="auto" class="style-scope yt-formatted-string"> Copying between notebooks
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=3360s" dir="auto">56:00</a><span dir="auto" class="style-scope yt-formatted-string"> Placing tabs
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=3390s" dir="auto">56:30</a><span dir="auto" class="style-scope yt-formatted-string"> Three pane view
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=3549s" dir="auto">59:09</a><span dir="auto" class="style-scope yt-formatted-string"> Running Kernels tab
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=3580s" dir="auto">59:40</a><span dir="auto" class="style-scope yt-formatted-string"> No kernel issue
+
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=-luPzplPDI0&amp;t=3660s" dir="auto">1:01:00</a><span dir="auto" class="style-scope yt-formatted-string"> Intelli-blocks troubleshooting not defined issue</span>
+
