@@ -12,7 +12,7 @@ Because the internship is online, it is very important for you to become familia
 |----------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | UoM Email | <https://ummail.memphis.edu/>                                                                     | Official employment email address                        |
 | Discord          | [go here](https://discord.com/channels/844280711962689536/844280711962689539) | Ask questions or chat by DM, voice, or video |
-| JupyterHub     | [see schedule](#schedule) and [quick video tutorial](https://youtu.be/ovCJln08mG8?vq=hd720) and [long video tutorial](https://youtu.be/-luPzplPDI0?vq=hd720); Hold CTRL and the - key to zoom out and make more room for blocks     | Work on data science problems                  |
+| JupyterHub     | [see schedule](#schedule) and [quick video tutorial](https://youtu.be/ovCJln08mG8?vq=hd720) and [long video tutorial](https://youtu.be/-luPzplPDI0?vq=hd720) ([see index](video-tutorial-index.html)); Hold CTRL and the - key to zoom out and make more room for blocks     | Work on data science problems                  |
 | Zoom           | <http://memphis.zoom.us/>                                                                         | Video chat software for group meetings                   |
 
 ### Schedule
