@@ -18,7 +18,7 @@ Because the internship is online, it is very important for you to become familia
 ### Schedule
 
 Your schedule for the first six weeks will be very similar every day.
-The only major differences are Tuesdays, when you will have lunch with a faculty member (online) and Thursdays, when we will have a presentation.
+The only major differences are Tuesdays, when you will have lunch with a faculty member or data science professional (online) and Thursdays, when we will have a presentation.
 
 Click on an activity below to reveal the link to that activity.
 Remember you can always ask questions in Discord if you're not sure what to do or if something isn't working. 
