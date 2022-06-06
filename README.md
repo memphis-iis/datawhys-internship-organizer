@@ -28,4 +28,4 @@ Phase 3 will keep the Tuesday lunches and Thursday presentations, but the daily 
 Click on an activity below to reveal the link to that activity.
 Remember you can always ask questions in Discord if you're not sure what to do or if something isn't working. 
 
-<object data="https://calendar.google.com/calendar/embed?src=k488us0oo8c3jrpn5cdb87jnro%40group.calendar.google.com&ctz=America%2FChicago&amp;mode=AGENDA&dates=20210601%2F20210723" width="576" height="432"></object>
+<object data="https://calendar.google.com/calendar/embed?src=k488us0oo8c3jrpn5cdb87jnro%40group.calendar.google.com&ctz=America%2FChicago&amp;mode=AGENDA&dates=20220606%2F20220728" width="576" height="432"></object>
