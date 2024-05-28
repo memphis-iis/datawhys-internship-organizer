@@ -3,7 +3,7 @@
 The internship will have three phases, lasting 1, 2 , and 2 weeks, respectively.
 In the first phase, you will work in small groups on basic computing skills with a mentor.
 In the second phase, you will work through a structured course to learn data science.
-In the third  phase, you will work in teams on a real data science project. This phase is entirely online.
+In the third  phase, you will work in teams on a real data science project. The third phase is entirely online.
 
 ### Links
 
