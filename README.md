@@ -14,7 +14,7 @@ Because part of the internship is online, it is very important for you to become
 | UoM Email | <https://ummail.memphis.edu/>                                                                     | Official employment email address                        |
 | Discord          | [go here](https://discord.gg/8AfWKyay) | Ask questions or chat by DM, voice, or video |
 | JupyterHub     | - [see schedule for daily notebooks](#schedule)<br>- [quickstart video tutorial](https://youtu.be/ovCJln08mG8?vq=hd720)<br>- [faq video tutorial](video-tutorial-index.html)<br>- [blocks reference PDF](https://blogs.memphis.edu/aolney/files/2021/06/Reference.pdf)<br>- **small screen?** hold ctrl and the - key to zoom out and make more room for blocks     | Work on data science problems                  |
-| Zoom           | <http://memphis.zoom.us/>                                                                         | Video chat software for group meetings                   |
+| Teams           | <https://teams.microsoft.com/>                                                                         | Video chat software for group meetings                   |
 
 ### Schedule
 
