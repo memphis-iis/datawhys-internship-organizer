@@ -12,7 +12,7 @@ Because part of the internship is online, it is very important for you to become
 | What           | Where                                                                                           | Why                                                                   |
 |----------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | UoM Email | <https://ummail.memphis.edu/>                                                                     | Official employment email address                        |
-| Discord          | [go here](https://discord.com/channels/1245025198130991206/1245025198575452303) | Ask questions or chat by DM, voice, or video |
+| Discord          | [go here](https://discord.gg/8AfWKyay) | Ask questions or chat by DM, voice, or video |
 | JupyterHub     | - [see schedule for daily notebooks](#schedule)<br>- [quickstart video tutorial](https://youtu.be/ovCJln08mG8?vq=hd720)<br>- [faq video tutorial](video-tutorial-index.html)<br>- [blocks reference PDF](https://blogs.memphis.edu/aolney/files/2021/06/Reference.pdf)<br>- **small screen?** hold ctrl and the - key to zoom out and make more room for blocks     | Work on data science problems                  |
 | Zoom           | <http://memphis.zoom.us/>                                                                         | Video chat software for group meetings                   |
 
@@ -27,4 +27,4 @@ The phase 3 schedule is more flexible because the daily activities will otherwis
 Click on an activity below to reveal the link to that activity.
 Remember you can always ask questions in Discord if you're not sure what to do or if something isn't working. 
 
-<object data="https://calendar.google.com/calendar/embed?src=06b3df28457c0a84d12695981f17cfafd66a79682d2a7d313cd5a423a9d4658e%40group.calendar.google.com&ctz=America%2FChicago&amp;mode=AGENDA&dates=20240603%2F20240703" width="576" height="432"></object>
+<object data="https://calendar.google.com/calendar/embed?src=06b3df28457c0a84d12695981f17cfafd66a79682d2a7d313cd5a423a9d4658e%40group.calendar.google.com&ctz=America%2FChicago&amp;mode=AGENDA&dates=20250602%2F20250703" width="576" height="432"></object>
